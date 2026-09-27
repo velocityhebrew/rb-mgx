@@ -1,0 +1,17 @@
+# Media recordings & raw audio
+recordings/*.mp4
+recordings/*.wav
+sfx/*.wav
+voiceover/*.mp3
+*.mp4
+*.wav
+*.mp3
+
+# Secrets & OAuth Tokens
+*token*.json
+credentials.json
+.env
+
+# Python cache
+__pycache__/
+*.pyc

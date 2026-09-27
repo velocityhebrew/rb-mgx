@@ -1,0 +1,269 @@
+[Script Info]
+Title: Roblox Brainrot Subtitles
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+Timer: 100.0000
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: KaiStyle,Impact,62,&H0000FFFF,&H000000FF,&H00000000,&H90000000,-1,0,0,0,100,100,1,0,1,6,3,2,60,60,95,1
+Style: SigmaStyle,Impact,62,&H00FFFF00,&H000000FF,&H00000000,&H90000000,-1,0,0,0,100,100,1,0,1,6,3,2,60,60,95,1
+Style: StageStyle,Arial,36,&H0000FFFF,&H000000FF,&H00000000,&H90000000,-1,0,0,0,100,100,1,0,1,4,2,7,50,50,45,1
+Style: AuraStyle,Impact,40,&H0033FF33,&H000000FF,&H00000000,&H90000000,-1,0,0,0,100,100,1,0,1,5,2,9,50,50,45,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.50,0:00:01.98,KaiStyle,,0,0,0,,KAI: Yo Sigma! If I don't
+Dialogue: 0,0:00:01.98,0:00:03.46,KaiStyle,,0,0,0,,KAI: beat this one-hundred-stage Roblox obby
+Dialogue: 0,0:00:03.46,0:00:04.94,KaiStyle,,0,0,0,,KAI: in five minutes flat, you
+Dialogue: 0,0:00:04.94,0:00:06.42,KaiStyle,,0,0,0,,KAI: get to shave my eyebrows
+Dialogue: 0,0:00:06.42,0:00:07.91,KaiStyle,,0,0,0,,KAI: live on stream!
+Dialogue: 1,0:00:00.50,0:00:07.91,StageStyle,,0,0,0,,🕹️ STAGE 07 / 100
+Dialogue: 1,0:00:00.50,0:00:07.91,AuraStyle,,0,0,0,,⚡ +500 AURA
+Dialogue: 0,0:00:07.99,0:00:10.02,SigmaStyle,,0,0,0,,SIGMA: Kai, your hairline is already
+Dialogue: 0,0:00:10.02,0:00:12.05,SigmaStyle,,0,0,0,,SIGMA: running away. Start jumping before
+Dialogue: 0,0:00:12.05,0:00:14.08,SigmaStyle,,0,0,0,,SIGMA: I get the clippers.
+Dialogue: 1,0:00:07.99,0:00:14.08,StageStyle,,0,0,0,,🕹️ STAGE 07 / 100
+Dialogue: 1,0:00:07.99,0:00:14.08,AuraStyle,,0,0,0,,⚡ +500 AURA
+Dialogue: 0,0:00:14.16,0:00:16.22,KaiStyle,,0,0,0,,KAI: Watch this jump! Boom! Plus
+Dialogue: 0,0:00:16.22,0:00:18.29,KaiStyle,,0,0,0,,KAI: five hundred aura! Look at
+Dialogue: 0,0:00:18.29,0:00:20.35,KaiStyle,,0,0,0,,KAI: these glowing neon platforms, this
+Dialogue: 0,0:00:20.35,0:00:22.42,KaiStyle,,0,0,0,,KAI: is light work!
+Dialogue: 1,0:00:14.16,0:00:22.42,StageStyle,,0,0,0,,🕹️ STAGE 07 / 100
+Dialogue: 1,0:00:14.16,0:00:22.42,AuraStyle,,0,0,0,,⚡ +500 AURA
+Dialogue: 0,0:00:22.50,0:00:24.61,SigmaStyle,,0,0,0,,SIGMA: You clipped the pixel edge
+Dialogue: 0,0:00:24.61,0:00:26.72,SigmaStyle,,0,0,0,,SIGMA: of a block. Pure dumb
+Dialogue: 0,0:00:26.72,0:00:28.83,SigmaStyle,,0,0,0,,SIGMA: luck. Checkpoint reached.
+Dialogue: 1,0:00:22.50,0:00:28.83,StageStyle,,0,0,0,,🕹️ STAGE 07 / 100
+Dialogue: 1,0:00:22.50,0:00:28.83,AuraStyle,,0,0,0,,⚡ +500 AURA
+Dialogue: 0,0:00:28.91,0:00:30.08,KaiStyle,,0,0,0,,KAI: While I'm hitting these speed
+Dialogue: 0,0:00:30.08,0:00:31.26,KaiStyle,,0,0,0,,KAI: coils, you won't believe what
+Dialogue: 0,0:00:31.26,0:00:32.43,KaiStyle,,0,0,0,,KAI: happened in third period algebra
+Dialogue: 0,0:00:32.43,0:00:33.61,KaiStyle,,0,0,0,,KAI: today.
+Dialogue: 1,0:00:28.91,0:00:33.61,StageStyle,,0,0,0,,🕹️ STAGE 19 / 100
+Dialogue: 1,0:00:28.91,0:00:33.61,AuraStyle,,0,0,0,,⚡ +1,200 AURA
+Dialogue: 0,0:00:33.69,0:00:35.51,SigmaStyle,,0,0,0,,SIGMA: Let me guess. You failed
+Dialogue: 0,0:00:35.51,0:00:37.33,SigmaStyle,,0,0,0,,SIGMA: a five-question pop quiz and
+Dialogue: 0,0:00:37.33,0:00:39.15,SigmaStyle,,0,0,0,,SIGMA: blamed it on lag?
+Dialogue: 1,0:00:33.69,0:00:39.15,StageStyle,,0,0,0,,🕹️ STAGE 19 / 100
+Dialogue: 1,0:00:33.69,0:00:39.15,AuraStyle,,0,0,0,,⚡ +1,200 AURA
+Dialogue: 0,0:00:39.23,0:00:41.10,KaiStyle,,0,0,0,,KAI: No! Brody literally brought a
+Dialogue: 0,0:00:41.10,0:00:42.97,KaiStyle,,0,0,0,,KAI: whole countertop microwave into class
+Dialogue: 0,0:00:42.97,0:00:44.84,KaiStyle,,0,0,0,,KAI: in his backpack!
+Dialogue: 1,0:00:39.23,0:00:44.84,StageStyle,,0,0,0,,🕹️ STAGE 19 / 100
+Dialogue: 1,0:00:39.23,0:00:44.84,AuraStyle,,0,0,0,,⚡ +1,200 AURA
+Dialogue: 0,0:00:44.92,0:00:46.65,SigmaStyle,,0,0,0,,SIGMA: A microwave in math class?
+Dialogue: 0,0:00:46.65,0:00:48.39,SigmaStyle,,0,0,0,,SIGMA: Why am I legally associated
+Dialogue: 0,0:00:48.39,0:00:50.12,SigmaStyle,,0,0,0,,SIGMA: with you?
+Dialogue: 1,0:00:44.92,0:00:50.12,StageStyle,,0,0,0,,🕹️ STAGE 19 / 100
+Dialogue: 1,0:00:44.92,0:00:50.12,AuraStyle,,0,0,0,,⚡ +1,200 AURA
+Dialogue: 0,0:00:50.20,0:00:51.45,KaiStyle,,0,0,0,,KAI: Bro plugged it in next
+Dialogue: 0,0:00:51.45,0:00:52.71,KaiStyle,,0,0,0,,KAI: to the teacher and heated
+Dialogue: 0,0:00:52.71,0:00:53.96,KaiStyle,,0,0,0,,KAI: up pizza rolls at ten
+Dialogue: 0,0:00:53.96,0:00:55.21,KaiStyle,,0,0,0,,KAI: in the morning! The hallway
+Dialogue: 0,0:00:55.21,0:00:56.47,KaiStyle,,0,0,0,,KAI: smelled insane!
+Dialogue: 1,0:00:50.20,0:00:56.47,StageStyle,,0,0,0,,🕹️ STAGE 19 / 100
+Dialogue: 1,0:00:50.20,0:00:56.47,AuraStyle,,0,0,0,,⚡ +1,200 AURA
+Dialogue: 0,0:00:56.55,0:00:58.00,SigmaStyle,,0,0,0,,SIGMA: Did Mr. Henderson confiscate the
+Dialogue: 0,0:00:58.00,0:00:59.46,SigmaStyle,,0,0,0,,SIGMA: pizza rolls or throw it
+Dialogue: 0,0:00:59.46,0:01:00.92,SigmaStyle,,0,0,0,,SIGMA: out the window?
+Dialogue: 1,0:00:56.55,0:01:00.92,StageStyle,,0,0,0,,🕹️ STAGE 28 / 100
+Dialogue: 1,0:00:56.55,0:01:00.92,AuraStyle,,0,0,0,,⚡ +2,500 AURA
+Dialogue: 0,0:01:00.99,0:01:03.08,KaiStyle,,0,0,0,,KAI: Neither! He took two rolls,
+Dialogue: 0,0:01:03.08,0:01:05.17,KaiStyle,,0,0,0,,KAI: dipped them in ranch, and
+Dialogue: 0,0:01:05.17,0:01:07.25,KaiStyle,,0,0,0,,KAI: said 'Quiet down, we're doing
+Dialogue: 0,0:01:07.25,0:01:09.34,KaiStyle,,0,0,0,,KAI: quadratic formulas!' Infinite aura move!
+Dialogue: 1,0:01:00.99,0:01:09.34,StageStyle,,0,0,0,,🕹️ STAGE 28 / 100
+Dialogue: 1,0:01:00.99,0:01:09.34,AuraStyle,,0,0,0,,⚡ +2,500 AURA
+Dialogue: 0,0:01:09.42,0:01:11.67,KaiStyle,,0,0,0,,KAI: Watch me time these spinning
+Dialogue: 0,0:01:11.67,0:01:13.93,KaiStyle,,0,0,0,,KAI: hammers! One... two... SLIDE! OHHH!
+Dialogue: 0,0:01:13.93,0:01:16.18,KaiStyle,,0,0,0,,KAI: Chat clip that pixel gap
+Dialogue: 0,0:01:16.18,0:01:18.44,KaiStyle,,0,0,0,,KAI: right now!
+Dialogue: 1,0:01:09.42,0:01:18.44,StageStyle,,0,0,0,,🕹️ STAGE 28 / 100
+Dialogue: 1,0:01:09.42,0:01:18.44,AuraStyle,,0,0,0,,⚡ +2,500 AURA
+Dialogue: 0,0:01:18.52,0:01:21.19,SigmaStyle,,0,0,0,,SIGMA: Calculated risk: zero. Dumb luck:
+Dialogue: 0,0:01:21.19,0:01:23.86,SigmaStyle,,0,0,0,,SIGMA: one hundred percent. Stage twenty-eight
+Dialogue: 0,0:01:23.86,0:01:26.53,SigmaStyle,,0,0,0,,SIGMA: checkpoint reached.
+Dialogue: 1,0:01:18.52,0:01:26.53,StageStyle,,0,0,0,,🕹️ STAGE 28 / 100
+Dialogue: 1,0:01:18.52,0:01:26.53,AuraStyle,,0,0,0,,⚡ +2,500 AURA
+Dialogue: 0,0:01:26.61,0:01:28.09,KaiStyle,,0,0,0,,KAI: My cousin went on a
+Dialogue: 0,0:01:28.09,0:01:29.58,KaiStyle,,0,0,0,,KAI: first date to McDonald's last
+Dialogue: 0,0:01:29.58,0:01:31.06,KaiStyle,,0,0,0,,KAI: Friday. Bro thought he had
+Dialogue: 0,0:01:31.06,0:01:32.55,KaiStyle,,0,0,0,,KAI: supreme Ohio rizz.
+Dialogue: 1,0:01:26.61,0:01:32.55,StageStyle,,0,0,0,,🕹️ STAGE 39 / 100
+Dialogue: 1,0:01:26.61,0:01:32.55,AuraStyle,,0,0,0,,⚡ -50,000 AURA
+Dialogue: 0,0:01:32.63,0:01:34.28,SigmaStyle,,0,0,0,,SIGMA: Taking a first date to
+Dialogue: 0,0:01:34.28,0:01:35.92,SigmaStyle,,0,0,0,,SIGMA: McDonald's is already negative fifty
+Dialogue: 0,0:01:35.92,0:01:37.57,SigmaStyle,,0,0,0,,SIGMA: thousand aura points.
+Dialogue: 1,0:01:32.63,0:01:37.57,StageStyle,,0,0,0,,🕹️ STAGE 39 / 100
+Dialogue: 1,0:01:32.63,0:01:37.57,AuraStyle,,0,0,0,,⚡ -50,000 AURA
+Dialogue: 0,0:01:37.65,0:01:39.02,KaiStyle,,0,0,0,,KAI: He ordered forty nuggets, ate
+Dialogue: 0,0:01:39.02,0:01:40.40,KaiStyle,,0,0,0,,KAI: thirty-six in complete silence, and
+Dialogue: 0,0:01:40.40,0:01:41.78,KaiStyle,,0,0,0,,KAI: asked her to split the
+Dialogue: 0,0:01:41.78,0:01:43.15,KaiStyle,,0,0,0,,KAI: bill fifty-fifty!
+Dialogue: 1,0:01:37.65,0:01:43.15,StageStyle,,0,0,0,,🕹️ STAGE 39 / 100
+Dialogue: 1,0:01:37.65,0:01:43.15,AuraStyle,,0,0,0,,⚡ -50,000 AURA
+Dialogue: 0,0:01:43.23,0:01:45.24,SigmaStyle,,0,0,0,,SIGMA: A true romantic. She posted
+Dialogue: 0,0:01:45.24,0:01:47.25,SigmaStyle,,0,0,0,,SIGMA: his receipt on TikTok and
+Dialogue: 0,0:01:47.25,0:01:49.26,SigmaStyle,,0,0,0,,SIGMA: blocked him, didn't she?
+Dialogue: 1,0:01:43.23,0:01:49.26,StageStyle,,0,0,0,,🕹️ STAGE 39 / 100
+Dialogue: 1,0:01:43.23,0:01:49.26,AuraStyle,,0,0,0,,⚡ -50,000 AURA
+Dialogue: 0,0:01:49.34,0:01:51.18,KaiStyle,,0,0,0,,KAI: Two million views! Bro got
+Dialogue: 0,0:01:51.18,0:01:53.01,KaiStyle,,0,0,0,,KAI: publicly cancelled by the Ronald
+Dialogue: 0,0:01:53.01,0:01:54.85,KaiStyle,,0,0,0,,KAI: McDonald fan club!
+Dialogue: 1,0:01:49.34,0:01:54.85,StageStyle,,0,0,0,,🕹️ STAGE 39 / 100
+Dialogue: 1,0:01:49.34,0:01:54.85,AuraStyle,,0,0,0,,⚡ -50,000 AURA
+Dialogue: 0,0:01:54.93,0:01:56.99,SigmaStyle,,0,0,0,,SIGMA: Look at your screen, Kai.
+Dialogue: 0,0:01:56.99,0:01:59.05,SigmaStyle,,0,0,0,,SIGMA: The neon platforms are literally
+Dialogue: 0,0:01:59.05,0:02:01.11,SigmaStyle,,0,0,0,,SIGMA: vanishing into the abyss.
+Dialogue: 1,0:01:54.93,0:02:01.11,StageStyle,,0,0,0,,🕹️ STAGE 50 / 100
+Dialogue: 1,0:01:54.93,0:02:01.11,AuraStyle,,0,0,0,,⚡ +10,000 AURA (CLUTCH)
+Dialogue: 0,0:02:01.19,0:02:03.97,KaiStyle,,0,0,0,,KAI: WAIT WAIT! JUMP! NOOO! OH
+Dialogue: 0,0:02:03.97,0:02:06.75,KaiStyle,,0,0,0,,KAI: MY GOD I CLUTCHED THE
+Dialogue: 0,0:02:06.75,0:02:09.53,KaiStyle,,0,0,0,,KAI: LADDER! MY HEART STOPPED!
+Dialogue: 1,0:02:01.19,0:02:09.53,StageStyle,,0,0,0,,🕹️ STAGE 50 / 100
+Dialogue: 1,0:02:01.19,0:02:09.53,AuraStyle,,0,0,0,,⚡ +10,000 AURA (CLUTCH)
+Dialogue: 0,0:02:09.61,0:02:12.24,SigmaStyle,,0,0,0,,SIGMA: Your heart stopped, but miraculously
+Dialogue: 0,0:02:12.24,0:02:14.87,SigmaStyle,,0,0,0,,SIGMA: your mouth kept going. Stage
+Dialogue: 0,0:02:14.87,0:02:17.50,SigmaStyle,,0,0,0,,SIGMA: fifty reached. Halfway mark.
+Dialogue: 1,0:02:09.61,0:02:17.50,StageStyle,,0,0,0,,🕹️ STAGE 50 / 100
+Dialogue: 1,0:02:09.61,0:02:17.50,AuraStyle,,0,0,0,,⚡ +10,000 AURA (CLUTCH)
+Dialogue: 0,0:02:17.57,0:02:19.74,KaiStyle,,0,0,0,,KAI: Look at this golden checkpoint!
+Dialogue: 0,0:02:19.74,0:02:21.90,KaiStyle,,0,0,0,,KAI: The aura is skyrocketing!
+Dialogue: 1,0:02:17.57,0:02:21.90,StageStyle,,0,0,0,,🕹️ STAGE 50 / 100
+Dialogue: 1,0:02:17.57,0:02:21.90,AuraStyle,,0,0,0,,⚡ +10,000 AURA (CLUTCH)
+Dialogue: 0,0:02:21.98,0:02:23.21,KaiStyle,,0,0,0,,KAI: Remember Marcus who said he
+Dialogue: 0,0:02:23.21,0:02:24.44,KaiStyle,,0,0,0,,KAI: was fluent in Spanish because
+Dialogue: 0,0:02:24.44,0:02:25.67,KaiStyle,,0,0,0,,KAI: he watched Money Heist with
+Dialogue: 0,0:02:25.67,0:02:26.90,KaiStyle,,0,0,0,,KAI: subtitles?
+Dialogue: 1,0:02:21.98,0:02:26.90,StageStyle,,0,0,0,,🕹️ STAGE 62 / 100
+Dialogue: 1,0:02:21.98,0:02:26.90,AuraStyle,,0,0,0,,⚡ -100,000 AURA
+Dialogue: 0,0:02:26.97,0:02:28.50,SigmaStyle,,0,0,0,,SIGMA: Marcus couldn't order a taco
+Dialogue: 0,0:02:28.50,0:02:30.03,SigmaStyle,,0,0,0,,SIGMA: at Taco Bell without pointing
+Dialogue: 0,0:02:30.03,0:02:31.56,SigmaStyle,,0,0,0,,SIGMA: at pictures.
+Dialogue: 1,0:02:26.97,0:02:31.56,StageStyle,,0,0,0,,🕹️ STAGE 62 / 100
+Dialogue: 1,0:02:26.97,0:02:31.56,AuraStyle,,0,0,0,,⚡ -100,000 AURA
+Dialogue: 0,0:02:31.64,0:02:32.98,KaiStyle,,0,0,0,,KAI: On the mid-term essay exam,
+Dialogue: 0,0:02:32.98,0:02:34.32,KaiStyle,,0,0,0,,KAI: bro pulls out his phone
+Dialogue: 0,0:02:34.32,0:02:35.66,KaiStyle,,0,0,0,,KAI: to use ChatGPT for his
+Dialogue: 0,0:02:35.66,0:02:36.99,KaiStyle,,0,0,0,,KAI: Spanish essay.
+Dialogue: 1,0:02:31.64,0:02:36.99,StageStyle,,0,0,0,,🕹️ STAGE 62 / 100
+Dialogue: 1,0:02:31.64,0:02:36.99,AuraStyle,,0,0,0,,⚡ -100,000 AURA
+Dialogue: 0,0:02:37.08,0:02:38.59,SigmaStyle,,0,0,0,,SIGMA: Don't tell me he forgot
+Dialogue: 0,0:02:38.59,0:02:40.09,SigmaStyle,,0,0,0,,SIGMA: to mute text-to-speech?
+Dialogue: 1,0:02:37.08,0:02:40.09,StageStyle,,0,0,0,,🕹️ STAGE 62 / 100
+Dialogue: 1,0:02:37.08,0:02:40.09,AuraStyle,,0,0,0,,⚡ -100,000 AURA
+Dialogue: 0,0:02:40.17,0:02:41.93,KaiStyle,,0,0,0,,KAI: WORSE! He accidentally air-played his
+Dialogue: 0,0:02:41.93,0:02:43.69,KaiStyle,,0,0,0,,KAI: phone to the eighty-inch Smart
+Dialogue: 0,0:02:43.69,0:02:45.45,KaiStyle,,0,0,0,,KAI: Board! The whole class watched
+Dialogue: 0,0:02:45.45,0:02:47.21,KaiStyle,,0,0,0,,KAI: ChatGPT write 'Hola profesor' in
+Dialogue: 0,0:02:47.21,0:02:48.97,KaiStyle,,0,0,0,,KAI: four-K!
+Dialogue: 1,0:02:40.17,0:02:48.97,StageStyle,,0,0,0,,🕹️ STAGE 62 / 100
+Dialogue: 1,0:02:40.17,0:02:48.97,AuraStyle,,0,0,0,,⚡ -100,000 AURA
+Dialogue: 0,0:02:49.06,0:02:51.78,SigmaStyle,,0,0,0,,SIGMA: Generational academic catastrophe. Minus one
+Dialogue: 0,0:02:51.78,0:02:54.51,SigmaStyle,,0,0,0,,SIGMA: hundred thousand aura.
+Dialogue: 1,0:02:49.06,0:02:54.51,StageStyle,,0,0,0,,🕹️ STAGE 62 / 100
+Dialogue: 1,0:02:49.06,0:02:54.51,AuraStyle,,0,0,0,,⚡ -100,000 AURA
+Dialogue: 0,0:02:54.59,0:02:55.85,KaiStyle,,0,0,0,,KAI: Mr. Martinez didn't say a
+Dialogue: 0,0:02:55.85,0:02:57.10,KaiStyle,,0,0,0,,KAI: word, just took a photo
+Dialogue: 0,0:02:57.10,0:02:58.35,KaiStyle,,0,0,0,,KAI: of the Smart Board and
+Dialogue: 0,0:02:58.35,0:02:59.60,KaiStyle,,0,0,0,,KAI: hit send to the dean!
+Dialogue: 1,0:02:54.59,0:02:59.60,StageStyle,,0,0,0,,🕹️ STAGE 74 / 100
+Dialogue: 1,0:02:54.59,0:02:59.60,AuraStyle,,0,0,0,,⚡ +5,000 AURA
+Dialogue: 0,0:02:59.68,0:03:01.88,SigmaStyle,,0,0,0,,SIGMA: Marcus is now majoring in
+Dialogue: 0,0:03:01.88,0:03:04.08,SigmaStyle,,0,0,0,,SIGMA: commercial lawn maintenance. Focus on
+Dialogue: 0,0:03:04.08,0:03:06.28,SigmaStyle,,0,0,0,,SIGMA: the laser tightrope, Kai.
+Dialogue: 1,0:02:59.68,0:03:06.28,StageStyle,,0,0,0,,🕹️ STAGE 74 / 100
+Dialogue: 1,0:02:59.68,0:03:06.28,AuraStyle,,0,0,0,,⚡ +5,000 AURA
+Dialogue: 0,0:03:06.36,0:03:09.99,KaiStyle,,0,0,0,,KAI: I am locking in. Absolute
+Dialogue: 0,0:03:09.99,0:03:13.63,KaiStyle,,0,0,0,,KAI: silence. Step... Step... JUMP! LETS
+Dialogue: 0,0:03:13.63,0:03:17.27,KaiStyle,,0,0,0,,KAI: GOOO! World-class precision!
+Dialogue: 1,0:03:06.36,0:03:17.27,StageStyle,,0,0,0,,🕹️ STAGE 74 / 100
+Dialogue: 1,0:03:06.36,0:03:17.27,AuraStyle,,0,0,0,,⚡ +5,000 AURA
+Dialogue: 0,0:03:17.35,0:03:19.72,SigmaStyle,,0,0,0,,SIGMA: Adequate collision avoidance. Plus five
+Dialogue: 0,0:03:19.72,0:03:22.09,SigmaStyle,,0,0,0,,SIGMA: thousand aura.
+Dialogue: 1,0:03:17.35,0:03:22.09,StageStyle,,0,0,0,,🕹️ STAGE 74 / 100
+Dialogue: 1,0:03:17.35,0:03:22.09,AuraStyle,,0,0,0,,⚡ +5,000 AURA
+Dialogue: 0,0:03:22.17,0:03:23.98,KaiStyle,,0,0,0,,KAI: That was prime Olympic agility!
+Dialogue: 0,0:03:23.98,0:03:25.78,KaiStyle,,0,0,0,,KAI: Smoother than Tyler in eighth
+Dialogue: 0,0:03:25.78,0:03:27.59,KaiStyle,,0,0,0,,KAI: grade gym dodgeball!
+Dialogue: 1,0:03:22.17,0:03:27.59,StageStyle,,0,0,0,,🕹️ STAGE 83 / 100
+Dialogue: 1,0:03:22.17,0:03:27.59,AuraStyle,,0,0,0,,⚡ +25,000 AURA
+Dialogue: 0,0:03:27.67,0:03:29.77,SigmaStyle,,0,0,0,,SIGMA: Tyler was four-foot-eleven and threw
+Dialogue: 0,0:03:29.77,0:03:31.86,SigmaStyle,,0,0,0,,SIGMA: balls like wet napkins. What
+Dialogue: 0,0:03:31.86,0:03:33.96,SigmaStyle,,0,0,0,,SIGMA: folklore are you inventing?
+Dialogue: 1,0:03:27.67,0:03:33.96,StageStyle,,0,0,0,,🕹️ STAGE 83 / 100
+Dialogue: 1,0:03:27.67,0:03:33.96,AuraStyle,,0,0,0,,⚡ +25,000 AURA
+Dialogue: 0,0:03:34.04,0:03:35.57,KaiStyle,,0,0,0,,KAI: Five varsity football players threw
+Dialogue: 0,0:03:35.57,0:03:37.10,KaiStyle,,0,0,0,,KAI: dodgeballs at him at the
+Dialogue: 0,0:03:37.10,0:03:38.63,KaiStyle,,0,0,0,,KAI: exact same millisecond!
+Dialogue: 1,0:03:34.04,0:03:38.63,StageStyle,,0,0,0,,🕹️ STAGE 83 / 100
+Dialogue: 1,0:03:34.04,0:03:38.63,AuraStyle,,0,0,0,,⚡ +25,000 AURA
+Dialogue: 0,0:03:38.71,0:03:40.20,KaiStyle,,0,0,0,,KAI: Tyler did a full Matrix
+Dialogue: 0,0:03:40.20,0:03:41.69,KaiStyle,,0,0,0,,KAI: backward bridge, caught one between
+Dialogue: 0,0:03:41.69,0:03:43.19,KaiStyle,,0,0,0,,KAI: his knees, kicked another, and
+Dialogue: 0,0:03:43.19,0:03:44.68,KaiStyle,,0,0,0,,KAI: tagged the captain! Gym went
+Dialogue: 0,0:03:44.68,0:03:46.18,KaiStyle,,0,0,0,,KAI: wild!
+Dialogue: 1,0:03:38.71,0:03:46.18,StageStyle,,0,0,0,,🕹️ STAGE 83 / 100
+Dialogue: 1,0:03:38.71,0:03:46.18,AuraStyle,,0,0,0,,⚡ +25,000 AURA
+Dialogue: 0,0:03:46.25,0:03:48.84,SigmaStyle,,0,0,0,,SIGMA: Ninety-five percent cinematic hallucination, five
+Dialogue: 0,0:03:48.84,0:03:51.43,SigmaStyle,,0,0,0,,SIGMA: percent sleep deprivation.
+Dialogue: 1,0:03:46.25,0:03:51.43,StageStyle,,0,0,0,,🕹️ STAGE 83 / 100
+Dialogue: 1,0:03:46.25,0:03:51.43,AuraStyle,,0,0,0,,⚡ +25,000 AURA
+Dialogue: 0,0:03:51.51,0:03:54.19,SigmaStyle,,0,0,0,,SIGMA: Stage ninety-three. Floating ice blocks
+Dialogue: 0,0:03:54.19,0:03:56.87,SigmaStyle,,0,0,0,,SIGMA: with instant decay. This is
+Dialogue: 0,0:03:56.87,0:03:59.55,SigmaStyle,,0,0,0,,SIGMA: where ninety-nine percent rage quit.
+Dialogue: 1,0:03:51.51,0:03:59.55,StageStyle,,0,0,0,,🕹️ STAGE 93 / 100
+Dialogue: 1,0:03:51.51,0:03:59.55,AuraStyle,,0,0,0,,⚡ +100,000 AURA
+Dialogue: 0,0:03:59.63,0:04:01.30,KaiStyle,,0,0,0,,KAI: Not me! I was forged
+Dialogue: 0,0:04:01.30,0:04:02.97,KaiStyle,,0,0,0,,KAI: in the Tower of Hell!
+Dialogue: 0,0:04:02.97,0:04:04.64,KaiStyle,,0,0,0,,KAI: Hands steady, sweat dripping, no
+Dialogue: 0,0:04:04.64,0:04:06.31,KaiStyle,,0,0,0,,KAI: choke!
+Dialogue: 1,0:03:59.63,0:04:06.31,StageStyle,,0,0,0,,🕹️ STAGE 93 / 100
+Dialogue: 1,0:03:59.63,0:04:06.31,AuraStyle,,0,0,0,,⚡ +100,000 AURA
+Dialogue: 0,0:04:06.39,0:04:07.87,SigmaStyle,,0,0,0,,SIGMA: If you slip, you're buying
+Dialogue: 0,0:04:07.87,0:04:09.35,SigmaStyle,,0,0,0,,SIGMA: the whole discord squad boba
+Dialogue: 0,0:04:09.35,0:04:10.83,SigmaStyle,,0,0,0,,SIGMA: for a month.
+Dialogue: 1,0:04:06.39,0:04:10.83,StageStyle,,0,0,0,,🕹️ STAGE 93 / 100
+Dialogue: 1,0:04:06.39,0:04:10.83,AuraStyle,,0,0,0,,⚡ +100,000 AURA
+Dialogue: 0,0:04:10.91,0:04:13.73,KaiStyle,,0,0,0,,KAI: Bet! Jump one... Jump two...
+Dialogue: 0,0:04:13.73,0:04:16.55,KaiStyle,,0,0,0,,KAI: Ice slide... THREE SIXTY SPIN
+Dialogue: 0,0:04:16.55,0:04:19.37,KaiStyle,,0,0,0,,KAI: OFF THE EDGE! TOUCHDOWN! AURA
+Dialogue: 0,0:04:19.37,0:04:22.19,KaiStyle,,0,0,0,,KAI: OVER NINE THOUSAND!
+Dialogue: 1,0:04:10.91,0:04:22.19,StageStyle,,0,0,0,,🕹️ STAGE 93 / 100
+Dialogue: 1,0:04:10.91,0:04:22.19,AuraStyle,,0,0,0,,⚡ +100,000 AURA
+Dialogue: 0,0:04:22.27,0:04:24.93,SigmaStyle,,0,0,0,,SIGMA: Disgustingly clean. Don't look down,
+Dialogue: 0,0:04:24.93,0:04:27.58,SigmaStyle,,0,0,0,,SIGMA: finish line is right there.
+Dialogue: 1,0:04:22.27,0:04:27.58,StageStyle,,0,0,0,,🕹️ STAGE 93 / 100
+Dialogue: 1,0:04:22.27,0:04:27.58,AuraStyle,,0,0,0,,⚡ +100,000 AURA
+Dialogue: 0,0:04:27.66,0:04:29.94,KaiStyle,,0,0,0,,KAI: STAGE ONE HUNDRED! GIANT GOLDEN
+Dialogue: 0,0:04:29.94,0:04:32.21,KaiStyle,,0,0,0,,KAI: TROPHY! WE DID IT! FIVE
+Dialogue: 0,0:04:32.21,0:04:34.49,KaiStyle,,0,0,0,,KAI: MINUTES FLAT! Bow down to
+Dialogue: 0,0:04:34.49,0:04:36.77,KaiStyle,,0,0,0,,KAI: the Parkour King!
+Dialogue: 1,0:04:27.66,0:04:36.77,StageStyle,,0,0,0,,🕹️ STAGE 100 / 100 (VICTORY)
+Dialogue: 1,0:04:27.66,0:04:36.77,AuraStyle,,0,0,0,,⚡ MAX AURA: 1,000,000+
+Dialogue: 0,0:04:36.85,0:04:39.02,SigmaStyle,,0,0,0,,SIGMA: You conquered a kids' obstacle
+Dialogue: 0,0:04:39.02,0:04:41.18,SigmaStyle,,0,0,0,,SIGMA: course. Your mother is shouting
+Dialogue: 0,0:04:41.18,0:04:43.35,SigmaStyle,,0,0,0,,SIGMA: downstairs to empty the dishwasher.
+Dialogue: 1,0:04:36.85,0:04:43.35,StageStyle,,0,0,0,,🕹️ STAGE 100 / 100 (VICTORY)
+Dialogue: 1,0:04:36.85,0:04:43.35,AuraStyle,,0,0,0,,⚡ MAX AURA: 1,000,000+
+Dialogue: 0,0:04:43.43,0:04:44.60,KaiStyle,,0,0,0,,KAI: If you watched all five
+Dialogue: 0,0:04:44.60,0:04:45.76,KaiStyle,,0,0,0,,KAI: minutes, comment 'CHICKEN NUGGET' right
+Dialogue: 0,0:04:45.76,0:04:46.92,KaiStyle,,0,0,0,,KAI: now to get your comment
+Dialogue: 0,0:04:46.93,0:04:48.09,KaiStyle,,0,0,0,,KAI: pinned!
+Dialogue: 1,0:04:43.43,0:04:48.09,StageStyle,,0,0,0,,🕹️ STAGE 100 / 100 (VICTORY)
+Dialogue: 1,0:04:43.43,0:04:48.09,AuraStyle,,0,0,0,,⚡ MAX AURA: 1,000,000+
+Dialogue: 0,0:04:48.17,0:04:50.00,SigmaStyle,,0,0,0,,SIGMA: And subscribe to the channel
+Dialogue: 0,0:04:50.00,0:04:51.84,SigmaStyle,,0,0,0,,SIGMA: before Kai's computer explodes. Hit
+Dialogue: 0,0:04:51.84,0:04:53.68,SigmaStyle,,0,0,0,,SIGMA: the bell.
+Dialogue: 1,0:04:48.17,0:04:53.68,StageStyle,,0,0,0,,🕹️ STAGE 100 / 100 (VICTORY)
+Dialogue: 1,0:04:48.17,0:04:53.68,AuraStyle,,0,0,0,,⚡ MAX AURA: 1,000,000+
+Dialogue: 0,0:04:53.76,0:04:55.35,KaiStyle,,0,0,0,,KAI: Smash like, subscribe for daily
+Dialogue: 0,0:04:55.35,0:04:56.93,KaiStyle,,0,0,0,,KAI: Roblox brainrot challenges, and we'll
+Dialogue: 0,0:04:56.93,0:04:58.52,KaiStyle,,0,0,0,,KAI: see you in the next
+Dialogue: 0,0:04:58.52,0:05:00.11,KaiStyle,,0,0,0,,KAI: one! PEACE!
+Dialogue: 1,0:04:53.76,0:05:00.11,StageStyle,,0,0,0,,🕹️ STAGE 100 / 100 (VICTORY)
+Dialogue: 1,0:04:53.76,0:05:00.11,AuraStyle,,0,0,0,,⚡ MAX AURA: 1,000,000+
