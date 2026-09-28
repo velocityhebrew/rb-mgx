@@ -1,0 +1,1261 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<External>null</External>
+	<External>nil</External>
+	<Item class="Workspace" referent="RBX_Workspace">
+		<Properties>
+			<string name="Name">Workspace</string>
+			<bool name="FilteringEnabled">true</bool>
+		</Properties>
+		
+		<!-- SpawnLocation -->
+		<Item class="SpawnLocation" referent="RBX_Spawn">
+			<Properties>
+				<string name="Name">SpawnLocation</string>
+				<bool name="Anchored">true</bool>
+				<bool name="CanCollide">true</bool>
+				<token name="Material">288</token>
+				<Color3uint8 name="Color3uint8">4280295423</Color3uint8>
+				<CoordinateFrame name="CFrame">
+					<X>0</X><Y>10</Y><Z>0</Z>
+					<R00>1</R00><R01>0</R01><R02>0</R02>
+					<R10>0</R10><R11>1</R11><R12>0</R12>
+					<R20>0</R20><R21>0</R21><R22>1</R22>
+				</CoordinateFrame>
+				<Vector3 name="size">
+					<X>20</X><Y>2</Y><Z>20</Z>
+				</Vector3>
+				<int name="Duration">0</int>
+			</Properties>
+		</Item>
+
+		<!-- Checkpoints Folder -->
+		<Item class="Folder" referent="RBX_CheckpointsFolder">
+			<Properties>
+				<string name="Name">Checkpoints</string>
+			</Properties>
+		<Item class="Part" referent="RBX_101">
+			<Properties>
+				<string name="Name">Checkpoint1</string>
+				<bool name="Anchored">true</bool>
+				<bool name="CanCollide">true</bool>
+				<float name="Transparency">0.0</float>
+				<token name="Material">288</token>
+				<Color3uint8 name="Color3uint8">4280295423</Color3uint8>
+				<CoordinateFrame name="CFrame">
+					<X>0</X><Y>10</Y><Z>0</Z>
+					<R00>1</R00><R01>0</R01><R02>0</R02>
+					<R10>0</R10><R11>1</R11><R12>0</R12>
+					<R20>0</R20><R21>0</R21><R22>1</R22>
+				</CoordinateFrame>
+				<Vector3 name="size">
+					<X>18</X><Y>2</Y><Z>18</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+		<Item class="Part" referent="RBX_102">
+			<Properties>
+				<string name="Name">Checkpoint2</string>
+				<bool name="Anchored">true</bool>
+				<bool name="CanCollide">true</bool>
+				<float name="Transparency">0.0</float>
+				<token name="Material">288</token>
+				<Color3uint8 name="Color3uint8">4288230399</Color3uint8>
+				<CoordinateFrame name="CFrame">
+					<X>0</X><Y>14</Y><Z>-60</Z>
+					<R00>1</R00><R01>0</R01><R02>0</R02>
+					<R10>0</R10><R11>1</R11><R12>0</R12>
+					<R20>0</R20><R21>0</R21><R22>1</R22>
+				</CoordinateFrame>
+				<Vector3 name="size">
+					<X>12</X><Y>1.5</Y><Z>12</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+		<Item class="Part" referent="RBX_103">
+			<Properties>
+				<string name="Name">Checkpoint3</string>
+				<bool name="Anchored">true</bool>
+				<bool name="CanCollide">true</bool>
+				<float name="Transparency">0.0</float>
+				<token name="Material">288</token>
+				<Color3uint8 name="Color3uint8">4288230399</Color3uint8>
+				<CoordinateFrame name="CFrame">
+					<X>0</X><Y>18</Y><Z>-120</Z>
+					<R00>1</R00><R01>0</R01><R02>0</R02>
+					<R10>0</R10><R11>1</R11><R12>0</R12>
+					<R20>0</R20><R21>0</R21><R22>1</R22>
+				</CoordinateFrame>
+				<Vector3 name="size">
+					<X>12</X><Y>1.5</Y><Z>12</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+		<Item class="Part" referent="RBX_104">
+			<Properties>
+				<string name="Name">Checkpoint4</string>
+				<bool name="Anchored">true</bool>
+				<bool name="CanCollide">true</bool>
+				<float name="Transparency">0.0</float>
+				<token name="Material">288</token>
+				<Color3uint8 name="Color3uint8">4288230399</Color3uint8>
+				<CoordinateFrame name="CFrame">
+					<X>0</X><Y>22</Y><Z>-180</Z>
+					<R00>1</R00><R01>0</R01><R02>0</R02>
+					<R10>0</R10><R11>1</R11><R12>0</R12>
+					<R20>0</R20><R21>0</R21><R22>1</R22>
+				</CoordinateFrame>
+				<Vector3 name="size">
+					<X>12</X><Y>1.5</Y><Z>12</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+		<Item class="Part" referent="RBX_105">
+			<Properties>
+				<string name="Name">Checkpoint5</string>
+				<bool name="Anchored">true</bool>
+				<bool name="CanCollide">true</bool>
+				<float name="Transparency">0.0</float>
+				<token name="Material">288</token>
+				<Color3uint8 name="Color3uint8">4288230399</Color3uint8>
+				<CoordinateFrame name="CFrame">
+					<X>0</X><Y>26</Y><Z>-240</Z>
+					<R00>1</R00><R01>0</R01><R02>0</R02>
+					<R10>0</R10><R11>1</R11><R12>0</R12>
+					<R20>0</R20><R21>0</R21><R22>1</R22>
+				</CoordinateFrame>
+				<Vector3 name="size">
+					<X>12</X><Y>1.5</Y><Z>12</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+		<Item class="Part" referent="RBX_106">
+			<Properties>
+				<string name="Name">Checkpoint6</string>
+				<bool name="Anchored">true</bool>
+				<bool name="CanCollide">true</bool>
+				<float name="Transparency">0.0</float>
+				<token name="Material">288</token>
+				<Color3uint8 name="Color3uint8">4288230399</Color3uint8>
+				<CoordinateFrame name="CFrame">
+					<X>0</X><Y>30</Y><Z>-300</Z>
+					<R00>1</R00><R01>0</R01><R02>0</R02>
+					<R10>0</R10><R11>1</R11><R12>0</R12>
+					<R20>0</R20><R21>0</R21><R22>1</R22>
+				</CoordinateFrame>
+				<Vector3 name="size">
+					<X>12</X><Y>1.5</Y><Z>12</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+		<Item class="Part" referent="RBX_107">
+			<Properties>
+				<string name="Name">Checkpoint7</string>
+				<bool name="Anchored">true</bool>
+				<bool name="CanCollide">true</bool>
+				<float name="Transparency">0.0</float>
+				<token name="Material">288</token>
+				<Color3uint8 name="Color3uint8">4288230399</Color3uint8>
+				<CoordinateFrame name="CFrame">
+					<X>0</X><Y>34</Y><Z>-360</Z>
+					<R00>1</R00><R01>0</R01><R02>0</R02>
+					<R10>0</R10><R11>1</R11><R12>0</R12>
+					<R20>0</R20><R21>0</R21><R22>1</R22>
+				</CoordinateFrame>
+				<Vector3 name="size">
+					<X>12</X><Y>1.5</Y><Z>12</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+		<Item class="Part" referent="RBX_108">
+			<Properties>
+				<string name="Name">Checkpoint8</string>
+				<bool name="Anchored">true</bool>
+				<bool name="CanCollide">true</bool>
+				<float name="Transparency">0.0</float>
+				<token name="Material">288</token>
+				<Color3uint8 name="Color3uint8">4288230399</Color3uint8>
+				<CoordinateFrame name="CFrame">
+					<X>0</X><Y>38</Y><Z>-420</Z>
+					<R00>1</R00><R01>0</R01><R02>0</R02>
+					<R10>0</R10><R11>1</R11><R12>0</R12>
+					<R20>0</R20><R21>0</R21><R22>1</R22>
+				</CoordinateFrame>
+				<Vector3 name="size">
+					<X>12</X><Y>1.5</Y><Z>12</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+		<Item class="Part" referent="RBX_109">
+			<Properties>
+				<string name="Name">Checkpoint9</string>
+				<bool name="Anchored">true</bool>
+				<bool name="CanCollide">true</bool>
+				<float name="Transparency">0.0</float>
+				<token name="Material">288</token>
+				<Color3uint8 name="Color3uint8">4288230399</Color3uint8>
+				<CoordinateFrame name="CFrame">
+					<X>0</X><Y>42</Y><Z>-480</Z>
+					<R00>1</R00><R01>0</R01><R02>0</R02>
+					<R10>0</R10><R11>1</R11><R12>0</R12>
+					<R20>0</R20><R21>0</R21><R22>1</R22>
+				</CoordinateFrame>
+				<Vector3 name="size">
+					<X>12</X><Y>1.5</Y><Z>12</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+		<Item class="Part" referent="RBX_110">
+			<Properties>
+				<string name="Name">Checkpoint10</string>
+				<bool name="Anchored">true</bool>
+				<bool name="CanCollide">true</bool>
+				<float name="Transparency">0.0</float>
+				<token name="Material">288</token>
+				<Color3uint8 name="Color3uint8">4294953984</Color3uint8>
+				<CoordinateFrame name="CFrame">
+					<X>0</X><Y>46</Y><Z>-540</Z>
+					<R00>1</R00><R01>0</R01><R02>0</R02>
+					<R10>0</R10><R11>1</R11><R12>0</R12>
+					<R20>0</R20><R21>0</R21><R22>1</R22>
+				</CoordinateFrame>
+				<Vector3 name="size">
+					<X>18</X><Y>2</Y><Z>18</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+		</Item>
+
+		<!-- Obstacles Folder -->
+		<Item class="Folder" referent="RBX_ObstaclesFolder">
+			<Properties>
+				<string name="Name">Obstacles</string>
+			</Properties>
+		<Item class="Part" referent="RBX_111">
+			<Properties>
+				<string name="Name">StepBlock_1</string>
+				<bool name="Anchored">true</bool>
+				<bool name="CanCollide">true</bool>
+				<float name="Transparency">0.0</float>
+				<token name="Material">288</token>
+				<Color3uint8 name="Color3uint8">4294940672</Color3uint8>
+				<CoordinateFrame name="CFrame">
+					<X>-4</X><Y>10.8</Y><Z>-12.0</Z>
+					<R00>1</R00><R01>0</R01><R02>0</R02>
+					<R10>0</R10><R11>1</R11><R12>0</R12>
+					<R20>0</R20><R21>0</R21><R22>1</R22>
+				</CoordinateFrame>
+				<Vector3 name="size">
+					<X>5</X><Y>1</Y><Z>5</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+		<Item class="Part" referent="RBX_112">
+			<Properties>
+				<string name="Name">StepBlock_2</string>
+				<bool name="Anchored">true</bool>
+				<bool name="CanCollide">true</bool>
+				<float name="Transparency">0.0</float>
+				<token name="Material">288</token>
+				<Color3uint8 name="Color3uint8">4294940672</Color3uint8>
+				<CoordinateFrame name="CFrame">
+					<X>4</X><Y>11.6</Y><Z>-24.0</Z>
+					<R00>1</R00><R01>0</R01><R02>0</R02>
+					<R10>0</R10><R11>1</R11><R12>0</R12>
+					<R20>0</R20><R21>0</R21><R22>1</R22>
+				</CoordinateFrame>
+				<Vector3 name="size">
+					<X>5</X><Y>1</Y><Z>5</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+		<Item class="Part" referent="RBX_113">
+			<Properties>
+				<string name="Name">StepBlock_3</string>
+				<bool name="Anchored">true</bool>
+				<bool name="CanCollide">true</bool>
+				<float name="Transparency">0.0</float>
+				<token name="Material">288</token>
+				<Color3uint8 name="Color3uint8">4294940672</Color3uint8>
+				<CoordinateFrame name="CFrame">
+					<X>-4</X><Y>12.4</Y><Z>-36.0</Z>
+					<R00>1</R00><R01>0</R01><R02>0</R02>
+					<R10>0</R10><R11>1</R11><R12>0</R12>
+					<R20>0</R20><R21>0</R21><R22>1</R22>
+				</CoordinateFrame>
+				<Vector3 name="size">
+					<X>5</X><Y>1</Y><Z>5</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+		<Item class="Part" referent="RBX_114">
+			<Properties>
+				<string name="Name">StepBlock_4</string>
+				<bool name="Anchored">true</bool>
+				<bool name="CanCollide">true</bool>
+				<float name="Transparency">0.0</float>
+				<token name="Material">288</token>
+				<Color3uint8 name="Color3uint8">4294940672</Color3uint8>
+				<CoordinateFrame name="CFrame">
+					<X>4</X><Y>13.2</Y><Z>-48.0</Z>
+					<R00>1</R00><R01>0</R01><R02>0</R02>
+					<R10>0</R10><R11>1</R11><R12>0</R12>
+					<R20>0</R20><R21>0</R21><R22>1</R22>
+				</CoordinateFrame>
+				<Vector3 name="size">
+					<X>5</X><Y>1</Y><Z>5</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+		<Item class="Part" referent="RBX_115">
+			<Properties>
+				<string name="Name">SafePad_1</string>
+				<bool name="Anchored">true</bool>
+				<bool name="CanCollide">true</bool>
+				<float name="Transparency">0.0</float>
+				<token name="Material">256</token>
+				<Color3uint8 name="Color3uint8">4284111450</Color3uint8>
+				<CoordinateFrame name="CFrame">
+					<X>0</X><Y>15.0</Y><Z>-75.0</Z>
+					<R00>1</R00><R01>0</R01><R02>0</R02>
+					<R10>0</R10><R11>1</R11><R12>0</R12>
+					<R20>0</R20><R21>0</R21><R22>1</R22>
+				</CoordinateFrame>
+				<Vector3 name="size">
+					<X>6</X><Y>1</Y><Z>6</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+		<Item class="Part" referent="RBX_117">
+			<Properties>
+				<string name="Name">SafePad_2</string>
+				<bool name="Anchored">true</bool>
+				<bool name="CanCollide">true</bool>
+				<float name="Transparency">0.0</float>
+				<token name="Material">256</token>
+				<Color3uint8 name="Color3uint8">4284111450</Color3uint8>
+				<CoordinateFrame name="CFrame">
+					<X>0</X><Y>16.0</Y><Z>-90.0</Z>
+					<R00>1</R00><R01>0</R01><R02>0</R02>
+					<R10>0</R10><R11>1</R11><R12>0</R12>
+					<R20>0</R20><R21>0</R21><R22>1</R22>
+				</CoordinateFrame>
+				<Vector3 name="size">
+					<X>6</X><Y>1</Y><Z>6</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+		<Item class="Part" referent="RBX_119">
+			<Properties>
+				<string name="Name">SafePad_3</string>
+				<bool name="Anchored">true</bool>
+				<bool name="CanCollide">true</bool>
+				<float name="Transparency">0.0</float>
+				<token name="Material">256</token>
+				<Color3uint8 name="Color3uint8">4284111450</Color3uint8>
+				<CoordinateFrame name="CFrame">
+					<X>0</X><Y>17.0</Y><Z>-105.0</Z>
+					<R00>1</R00><R01>0</R01><R02>0</R02>
+					<R10>0</R10><R11>1</R11><R12>0</R12>
+					<R20>0</R20><R21>0</R21><R22>1</R22>
+				</CoordinateFrame>
+				<Vector3 name="size">
+					<X>6</X><Y>1</Y><Z>6</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+		<Item class="Part" referent="RBX_125">
+			<Properties>
+				<string name="Name">TightropeBeam</string>
+				<bool name="Anchored">true</bool>
+				<bool name="CanCollide">true</bool>
+				<float name="Transparency">0.0</float>
+				<token name="Material">288</token>
+				<Color3uint8 name="Color3uint8">4288256511</Color3uint8>
+				<CoordinateFrame name="CFrame">
+					<X>0</X><Y>24</Y><Z>-210.0</Z>
+					<R00>1</R00><R01>0</R01><R02>0</R02>
+					<R10>0</R10><R11>1</R11><R12>0</R12>
+					<R20>0</R20><R21>0</R21><R22>1</R22>
+				</CoordinateFrame>
+				<Vector3 name="size">
+					<X>1.5</X><Y>0.8</Y><Z>56</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+		<Item class="Part" referent="RBX_129">
+			<Properties>
+				<string name="Name">SprintTrack</string>
+				<bool name="Anchored">true</bool>
+				<bool name="CanCollide">true</bool>
+				<float name="Transparency">0.0</float>
+				<token name="Material">256</token>
+				<Color3uint8 name="Color3uint8">4280295423</Color3uint8>
+				<CoordinateFrame name="CFrame">
+					<X>0</X><Y>28</Y><Z>-270</Z>
+					<R00>1</R00><R01>0</R01><R02>0</R02>
+					<R10>0</R10><R11>1</R11><R12>0</R12>
+					<R20>0</R20><R21>0</R21><R22>1</R22>
+				</CoordinateFrame>
+				<Vector3 name="size">
+					<X>8</X><Y>1</Y><Z>56</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+		<Item class="Part" referent="RBX_131">
+			<Properties>
+				<string name="Name">ClimbStep_1</string>
+				<bool name="Anchored">true</bool>
+				<bool name="CanCollide">true</bool>
+				<float name="Transparency">0.0</float>
+				<token name="Material">288</token>
+				<Color3uint8 name="Color3uint8">4285098345</Color3uint8>
+				<CoordinateFrame name="CFrame">
+					<X>0</X><Y>30.8</Y><Z>-310</Z>
+					<R00>1</R00><R01>0</R01><R02>0</R02>
+					<R10>0</R10><R11>1</R11><R12>0</R12>
+					<R20>0</R20><R21>0</R21><R22>1</R22>
+				</CoordinateFrame>
+				<Vector3 name="size">
+					<X>5</X><Y>1</Y><Z>5</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+		<Item class="Part" referent="RBX_132">
+			<Properties>
+				<string name="Name">ClimbStep_2</string>
+				<bool name="Anchored">true</bool>
+				<bool name="CanCollide">true</bool>
+				<float name="Transparency">0.0</float>
+				<token name="Material">288</token>
+				<Color3uint8 name="Color3uint8">4285098345</Color3uint8>
+				<CoordinateFrame name="CFrame">
+					<X>0</X><Y>31.6</Y><Z>-320</Z>
+					<R00>1</R00><R01>0</R01><R02>0</R02>
+					<R10>0</R10><R11>1</R11><R12>0</R12>
+					<R20>0</R20><R21>0</R21><R22>1</R22>
+				</CoordinateFrame>
+				<Vector3 name="size">
+					<X>5</X><Y>1</Y><Z>5</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+		<Item class="Part" referent="RBX_133">
+			<Properties>
+				<string name="Name">ClimbStep_3</string>
+				<bool name="Anchored">true</bool>
+				<bool name="CanCollide">true</bool>
+				<float name="Transparency">0.0</float>
+				<token name="Material">288</token>
+				<Color3uint8 name="Color3uint8">4285098345</Color3uint8>
+				<CoordinateFrame name="CFrame">
+					<X>0</X><Y>32.4</Y><Z>-330</Z>
+					<R00>1</R00><R01>0</R01><R02>0</R02>
+					<R10>0</R10><R11>1</R11><R12>0</R12>
+					<R20>0</R20><R21>0</R21><R22>1</R22>
+				</CoordinateFrame>
+				<Vector3 name="size">
+					<X>5</X><Y>1</Y><Z>5</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+		<Item class="Part" referent="RBX_134">
+			<Properties>
+				<string name="Name">ClimbStep_4</string>
+				<bool name="Anchored">true</bool>
+				<bool name="CanCollide">true</bool>
+				<float name="Transparency">0.0</float>
+				<token name="Material">288</token>
+				<Color3uint8 name="Color3uint8">4285098345</Color3uint8>
+				<CoordinateFrame name="CFrame">
+					<X>0</X><Y>33.2</Y><Z>-340</Z>
+					<R00>1</R00><R01>0</R01><R02>0</R02>
+					<R10>0</R10><R11>1</R11><R12>0</R12>
+					<R20>0</R20><R21>0</R21><R22>1</R22>
+				</CoordinateFrame>
+				<Vector3 name="size">
+					<X>5</X><Y>1</Y><Z>5</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+		<Item class="Part" referent="RBX_135">
+			<Properties>
+				<string name="Name">ClimbStep_5</string>
+				<bool name="Anchored">true</bool>
+				<bool name="CanCollide">true</bool>
+				<float name="Transparency">0.0</float>
+				<token name="Material">288</token>
+				<Color3uint8 name="Color3uint8">4285098345</Color3uint8>
+				<CoordinateFrame name="CFrame">
+					<X>0</X><Y>34.0</Y><Z>-350</Z>
+					<R00>1</R00><R01>0</R01><R02>0</R02>
+					<R10>0</R10><R11>1</R11><R12>0</R12>
+					<R20>0</R20><R21>0</R21><R22>1</R22>
+				</CoordinateFrame>
+				<Vector3 name="size">
+					<X>5</X><Y>1</Y><Z>5</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+		<Item class="Part" referent="RBX_136">
+			<Properties>
+				<string name="Name">TrophyBase</string>
+				<bool name="Anchored">true</bool>
+				<bool name="CanCollide">true</bool>
+				<float name="Transparency">0.0</float>
+				<token name="Material">288</token>
+				<Color3uint8 name="Color3uint8">4294953984</Color3uint8>
+				<CoordinateFrame name="CFrame">
+					<X>0</X><Y>48</Y><Z>-550</Z>
+					<R00>1</R00><R01>0</R01><R02>0</R02>
+					<R10>0</R10><R11>1</R11><R12>0</R12>
+					<R20>0</R20><R21>0</R21><R22>1</R22>
+				</CoordinateFrame>
+				<Vector3 name="size">
+					<X>6</X><Y>2</Y><Z>6</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+		<Item class="Part" referent="RBX_137">
+			<Properties>
+				<string name="Name">TrophyPillar</string>
+				<bool name="Anchored">true</bool>
+				<bool name="CanCollide">true</bool>
+				<float name="Transparency">0.0</float>
+				<token name="Material">288</token>
+				<Color3uint8 name="Color3uint8">4294953984</Color3uint8>
+				<CoordinateFrame name="CFrame">
+					<X>0</X><Y>52</Y><Z>-550</Z>
+					<R00>1</R00><R01>0</R01><R02>0</R02>
+					<R10>0</R10><R11>1</R11><R12>0</R12>
+					<R20>0</R20><R21>0</R21><R22>1</R22>
+				</CoordinateFrame>
+				<Vector3 name="size">
+					<X>2.5</X><Y>6</Y><Z>2.5</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+		<Item class="Part" referent="RBX_138">
+			<Properties>
+				<string name="Name">TrophyCup</string>
+				<bool name="Anchored">true</bool>
+				<bool name="CanCollide">true</bool>
+				<float name="Transparency">0.0</float>
+				<token name="Material">288</token>
+				<Color3uint8 name="Color3uint8">4294953984</Color3uint8>
+				<CoordinateFrame name="CFrame">
+					<X>0</X><Y>56</Y><Z>-550</Z>
+					<R00>1</R00><R01>0</R01><R02>0</R02>
+					<R10>0</R10><R11>1</R11><R12>0</R12>
+					<R20>0</R20><R21>0</R21><R22>1</R22>
+				</CoordinateFrame>
+				<Vector3 name="size">
+					<X>7</X><Y>3</Y><Z>7</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+		</Item>
+
+		<!-- KillParts (Lava & Lasers) -->
+		<Item class="Folder" referent="RBX_KillPartsFolder">
+			<Properties>
+				<string name="Name">KillParts</string>
+			</Properties>
+		<Item class="Part" referent="RBX_116">
+			<Properties>
+				<string name="Name">LavaBar_1</string>
+				<bool name="Anchored">true</bool>
+				<bool name="CanCollide">true</bool>
+				<float name="Transparency">0.0</float>
+				<token name="Material">288</token>
+				<Color3uint8 name="Color3uint8">4294901760</Color3uint8>
+				<CoordinateFrame name="CFrame">
+					<X>0</X><Y>16.2</Y><Z>-68.0</Z>
+					<R00>1</R00><R01>0</R01><R02>0</R02>
+					<R10>0</R10><R11>1</R11><R12>0</R12>
+					<R20>0</R20><R21>0</R21><R22>1</R22>
+				</CoordinateFrame>
+				<Vector3 name="size">
+					<X>16</X><Y>0.8</Y><Z>1.5</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+		<Item class="Part" referent="RBX_118">
+			<Properties>
+				<string name="Name">LavaBar_2</string>
+				<bool name="Anchored">true</bool>
+				<bool name="CanCollide">true</bool>
+				<float name="Transparency">0.0</float>
+				<token name="Material">288</token>
+				<Color3uint8 name="Color3uint8">4294901760</Color3uint8>
+				<CoordinateFrame name="CFrame">
+					<X>0</X><Y>17.2</Y><Z>-83.0</Z>
+					<R00>1</R00><R01>0</R01><R02>0</R02>
+					<R10>0</R10><R11>1</R11><R12>0</R12>
+					<R20>0</R20><R21>0</R21><R22>1</R22>
+				</CoordinateFrame>
+				<Vector3 name="size">
+					<X>16</X><Y>0.8</Y><Z>1.5</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+		<Item class="Part" referent="RBX_120">
+			<Properties>
+				<string name="Name">LavaBar_3</string>
+				<bool name="Anchored">true</bool>
+				<bool name="CanCollide">true</bool>
+				<float name="Transparency">0.0</float>
+				<token name="Material">288</token>
+				<Color3uint8 name="Color3uint8">4294901760</Color3uint8>
+				<CoordinateFrame name="CFrame">
+					<X>0</X><Y>18.2</Y><Z>-98.0</Z>
+					<R00>1</R00><R01>0</R01><R02>0</R02>
+					<R10>0</R10><R11>1</R11><R12>0</R12>
+					<R20>0</R20><R21>0</R21><R22>1</R22>
+				</CoordinateFrame>
+				<Vector3 name="size">
+					<X>16</X><Y>0.8</Y><Z>1.5</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+		<Item class="Part" referent="RBX_126">
+			<Properties>
+				<string name="Name">LaserBeam_1</string>
+				<bool name="Anchored">true</bool>
+				<bool name="CanCollide">true</bool>
+				<float name="Transparency">0.0</float>
+				<token name="Material">288</token>
+				<Color3uint8 name="Color3uint8">4294901760</Color3uint8>
+				<CoordinateFrame name="CFrame">
+					<X>0</X><Y>25.5</Y><Z>-194</Z>
+					<R00>1</R00><R01>0</R01><R02>0</R02>
+					<R10>0</R10><R11>1</R11><R12>0</R12>
+					<R20>0</R20><R21>0</R21><R22>1</R22>
+				</CoordinateFrame>
+				<Vector3 name="size">
+					<X>14</X><Y>0.5</Y><Z>0.5</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+		<Item class="Part" referent="RBX_127">
+			<Properties>
+				<string name="Name">LaserBeam_2</string>
+				<bool name="Anchored">true</bool>
+				<bool name="CanCollide">true</bool>
+				<float name="Transparency">0.0</float>
+				<token name="Material">288</token>
+				<Color3uint8 name="Color3uint8">4294901760</Color3uint8>
+				<CoordinateFrame name="CFrame">
+					<X>0</X><Y>25.5</Y><Z>-208</Z>
+					<R00>1</R00><R01>0</R01><R02>0</R02>
+					<R10>0</R10><R11>1</R11><R12>0</R12>
+					<R20>0</R20><R21>0</R21><R22>1</R22>
+				</CoordinateFrame>
+				<Vector3 name="size">
+					<X>14</X><Y>0.5</Y><Z>0.5</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+		<Item class="Part" referent="RBX_128">
+			<Properties>
+				<string name="Name">LaserBeam_3</string>
+				<bool name="Anchored">true</bool>
+				<bool name="CanCollide">true</bool>
+				<float name="Transparency">0.0</float>
+				<token name="Material">288</token>
+				<Color3uint8 name="Color3uint8">4294901760</Color3uint8>
+				<CoordinateFrame name="CFrame">
+					<X>0</X><Y>25.5</Y><Z>-222</Z>
+					<R00>1</R00><R01>0</R01><R02>0</R02>
+					<R10>0</R10><R11>1</R11><R12>0</R12>
+					<R20>0</R20><R21>0</R21><R22>1</R22>
+				</CoordinateFrame>
+				<Vector3 name="size">
+					<X>14</X><Y>0.5</Y><Z>0.5</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+		</Item>
+
+		<!-- Fading Platforms -->
+		<Item class="Folder" referent="RBX_FadingFolder">
+			<Properties>
+				<string name="Name">FadingPlatforms</string>
+			</Properties>
+		<Item class="Part" referent="RBX_121">
+			<Properties>
+				<string name="Name">FadeBlock_1</string>
+				<bool name="Anchored">true</bool>
+				<bool name="CanCollide">true</bool>
+				<float name="Transparency">0.0</float>
+				<token name="Material">288</token>
+				<Color3uint8 name="Color3uint8">4294967040</Color3uint8>
+				<CoordinateFrame name="CFrame">
+					<X>3</X><Y>18.8</Y><Z>-132.0</Z>
+					<R00>1</R00><R01>0</R01><R02>0</R02>
+					<R10>0</R10><R11>1</R11><R12>0</R12>
+					<R20>0</R20><R21>0</R21><R22>1</R22>
+				</CoordinateFrame>
+				<Vector3 name="size">
+					<X>5</X><Y>1</Y><Z>5</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+		<Item class="Part" referent="RBX_122">
+			<Properties>
+				<string name="Name">FadeBlock_2</string>
+				<bool name="Anchored">true</bool>
+				<bool name="CanCollide">true</bool>
+				<float name="Transparency">0.0</float>
+				<token name="Material">288</token>
+				<Color3uint8 name="Color3uint8">4294967040</Color3uint8>
+				<CoordinateFrame name="CFrame">
+					<X>-3</X><Y>19.6</Y><Z>-144.0</Z>
+					<R00>1</R00><R01>0</R01><R02>0</R02>
+					<R10>0</R10><R11>1</R11><R12>0</R12>
+					<R20>0</R20><R21>0</R21><R22>1</R22>
+				</CoordinateFrame>
+				<Vector3 name="size">
+					<X>5</X><Y>1</Y><Z>5</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+		<Item class="Part" referent="RBX_123">
+			<Properties>
+				<string name="Name">FadeBlock_3</string>
+				<bool name="Anchored">true</bool>
+				<bool name="CanCollide">true</bool>
+				<float name="Transparency">0.0</float>
+				<token name="Material">288</token>
+				<Color3uint8 name="Color3uint8">4294967040</Color3uint8>
+				<CoordinateFrame name="CFrame">
+					<X>3</X><Y>20.4</Y><Z>-156.0</Z>
+					<R00>1</R00><R01>0</R01><R02>0</R02>
+					<R10>0</R10><R11>1</R11><R12>0</R12>
+					<R20>0</R20><R21>0</R21><R22>1</R22>
+				</CoordinateFrame>
+				<Vector3 name="size">
+					<X>5</X><Y>1</Y><Z>5</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+		<Item class="Part" referent="RBX_124">
+			<Properties>
+				<string name="Name">FadeBlock_4</string>
+				<bool name="Anchored">true</bool>
+				<bool name="CanCollide">true</bool>
+				<float name="Transparency">0.0</float>
+				<token name="Material">288</token>
+				<Color3uint8 name="Color3uint8">4294967040</Color3uint8>
+				<CoordinateFrame name="CFrame">
+					<X>-3</X><Y>21.2</Y><Z>-168.0</Z>
+					<R00>1</R00><R01>0</R01><R02>0</R02>
+					<R10>0</R10><R11>1</R11><R12>0</R12>
+					<R20>0</R20><R21>0</R21><R22>1</R22>
+				</CoordinateFrame>
+				<Vector3 name="size">
+					<X>5</X><Y>1</Y><Z>5</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+		</Item>
+
+		<!-- Speed Boost Pads -->
+		<Item class="Folder" referent="RBX_SpeedPadsFolder">
+			<Properties>
+				<string name="Name">SpeedPads</string>
+			</Properties>
+		<Item class="Part" referent="RBX_130">
+			<Properties>
+				<string name="Name">SpeedPad_Boost</string>
+				<bool name="Anchored">true</bool>
+				<bool name="CanCollide">true</bool>
+				<float name="Transparency">0.0</float>
+				<token name="Material">288</token>
+				<Color3uint8 name="Color3uint8">4294953984</Color3uint8>
+				<CoordinateFrame name="CFrame">
+					<X>0</X><Y>28.6</Y><Z>-245</Z>
+					<R00>1</R00><R01>0</R01><R02>0</R02>
+					<R10>0</R10><R11>1</R11><R12>0</R12>
+					<R20>0</R20><R21>0</R21><R22>1</R22>
+				</CoordinateFrame>
+				<Vector3 name="size">
+					<X>6</X><Y>0.4</Y><Z>6</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+		</Item>
+	</Item>
+
+	<!-- Lighting -->
+	<Item class="Lighting" referent="RBX_Lighting">
+		<Properties>
+			<string name="Name">Lighting</string>
+			<float name="Brightness">2.5</float>
+			<float name="ClockTime">14.5</float>
+			<Color3 name="OutdoorAmbient">
+				<R>0.5</R><G>0.5</G><B>0.6</B>
+			</Color3>
+		</Properties>
+	</Item>
+
+	<!-- ServerScriptService (Game Logic) -->
+	<Item class="ServerScriptService" referent="RBX_ServerScriptService">
+		<Properties>
+			<string name="Name">ServerScriptService</string>
+		</Properties>
+		
+		<Item class="Script" referent="RBX_Script_Leaderstats">
+			<Properties>
+				<string name="Name">LeaderstatsManager</string>
+				<ProtectedString name="Source"><![CDATA[--[[
+    Leaderstats & DataStore Manager
+    Tracks player Stage progress and Aura points with auto-saving
+]]
+
+local Players = game:GetService("Players")
+local DataStoreService = game:GetService("DataStoreService")
+local ObbyDataStore = DataStoreService:GetDataStore("BrainrotObby_Save_v1")
+
+local function onPlayerAdded(player)
+    local leaderstats = Instance.new("Folder")
+    leaderstats.Name = "leaderstats"
+    leaderstats.Parent = player
+
+    local stage = Instance.new("IntValue")
+    stage.Name = "Stage"
+    stage.Value = 1
+    stage.Parent = leaderstats
+
+    local aura = Instance.new("IntValue")
+    aura.Name = "Aura"
+    aura.Value = 1000
+    aura.Parent = leaderstats
+
+    -- Load saved data
+    local key = "Player_" .. player.UserId
+    local success, data = pcall(function()
+        return ObbyDataStore:GetAsync(key)
+    end)
+
+    if success and data then
+        stage.Value = data.Stage or 1
+        aura.Value = data.Aura or 1000
+        print("[DataStore] Loaded progress for " .. player.Name .. ": Stage " .. stage.Value .. " | Aura " .. aura.Value)
+    else
+        print("[DataStore] Starting fresh progress for " .. player.Name)
+    end
+end
+
+local function savePlayerData(player)
+    local leaderstats = player:FindFirstChild("leaderstats")
+    if not leaderstats then return end
+
+    local stage = leaderstats:FindFirstChild("Stage")
+    local aura = leaderstats:FindFirstChild("Aura")
+    if not stage or not aura then return end
+
+    local data = {
+        Stage = stage.Value,
+        Aura = aura.Value
+    }
+
+    local key = "Player_" .. player.UserId
+    local success, err = pcall(function()
+        ObbyDataStore:SetAsync(key, data)
+    end)
+
+    if success then
+        print("[DataStore] Saved progress for " .. player.Name)
+    else
+        warn("[DataStore] Failed saving data for " .. player.Name .. ": " .. tostring(err))
+    end
+end
+
+Players.PlayerAdded:Connect(onPlayerAdded)
+Players.PlayerRemoving:Connect(savePlayerData)
+
+game:BindToClose(function()
+    for _, player in ipairs(Players:GetPlayers()) do
+        savePlayerData(player)
+    end
+end)
+]]></ProtectedString>
+			</Properties>
+		</Item>
+
+		<Item class="Script" referent="RBX_Script_Checkpoints">
+			<Properties>
+				<string name="Name">CheckpointManager</string>
+				<ProtectedString name="Source"><![CDATA[--[[
+    Checkpoint & Stage Respawn Manager
+    Awards Aura on stage progression, plays checkpoint effects, and handles character respawn position.
+]]
+
+local Players = game:GetService("Players")
+local Workspace = game:GetService("Workspace")
+
+local CheckpointsFolder = Workspace:WaitForChild("Checkpoints", 10)
+
+local function getCheckpointByNumber(stageNum)
+    if not CheckpointsFolder then return nil end
+    return CheckpointsFolder:FindFirstChild("Checkpoint" .. tostring(stageNum))
+end
+
+local function onCharacterAdded(character, player)
+    local leaderstats = player:WaitForChild("leaderstats", 10)
+    if not leaderstats then return end
+
+    local stage = leaderstats:WaitForChild("Stage", 10)
+    if not stage then return end
+
+    local humanoidRootPart = character:WaitForChild("HumanoidRootPart", 10)
+    if not humanoidRootPart then return end
+
+    task.wait(0.1)
+    local targetCheckpoint = getCheckpointByNumber(stage.Value)
+    if targetCheckpoint then
+        humanoidRootPart.CFrame = targetCheckpoint.CFrame + Vector3.new(0, 3.5, 0)
+    end
+end
+
+local function onPlayerAdded(player)
+    player.CharacterAdded:Connect(function(character)
+        onCharacterAdded(character, player)
+    end)
+end
+
+Players.PlayerAdded:Connect(onPlayerAdded)
+
+-- Setup Checkpoint Touch Events
+local function setupCheckpoints()
+    if not CheckpointsFolder then
+        warn("[CheckpointManager] Checkpoints folder not found in Workspace!")
+        return
+    end
+
+    for _, pad in ipairs(CheckpointsFolder:GetChildren()) do
+        local stageNum = tonumber(string.match(pad.Name, "%d+"))
+        if stageNum then
+            pad.Touched:Connect(function(hit)
+                local character = hit.Parent
+                local player = Players:GetPlayerFromCharacter(character)
+                if not player then return end
+
+                local leaderstats = player:FindFirstChild("leaderstats")
+                if not leaderstats then return end
+
+                local stage = leaderstats:FindFirstChild("Stage")
+                local aura = leaderstats:FindFirstChild("Aura")
+                if not stage or not aura then return end
+
+                -- Only advance if this is the next stage
+                if stageNum > stage.Value then
+                    stage.Value = stageNum
+                    local auraGain = 500
+                    aura.Value = aura.Value + auraGain
+                    print(string.format("[Checkpoint] %s reached Stage %d! (+%d Aura)", player.Name, stageNum, auraGain))
+
+                    -- Visual Feedback: Pad Glow
+                    pad.Material = Enum.Material.Neon
+                    pad.Color = Color3.fromRGB(0, 255, 128)
+
+                    -- Emit Sound / Particle
+                    local sound = pad:FindFirstChild("CheckpointSound")
+                    if sound then
+                        sound:Play()
+                    end
+                end
+            end)
+        end
+    end
+end
+
+task.spawn(setupCheckpoints)
+]]></ProtectedString>
+			</Properties>
+		</Item>
+
+		<Item class="Script" referent="RBX_Script_KillParts">
+			<Properties>
+				<string name="Name">KillPartHandler</string>
+				<ProtectedString name="Source"><![CDATA[--[[
+    Kill-Part (Lava / Laser) Collision Manager
+    Instantly eliminates players touching hazardous obstacles and deducts penalty aura.
+]]
+
+local Players = game:GetService("Players")
+local Workspace = game:GetService("Workspace")
+
+local KillPartsFolder = Workspace:WaitForChild("KillParts", 10)
+local deathDebounce = {}
+
+local function onPartTouched(hit)
+    local character = hit.Parent
+    local humanoid = character:FindFirstChildOfClass("Humanoid")
+    if not humanoid or humanoid.Health <= 0 then return end
+
+    local player = Players:GetPlayerFromCharacter(character)
+    if not player then return end
+
+    if deathDebounce[player.UserId] then return end
+    deathDebounce[player.UserId] = true
+
+    -- Aura penalty
+    local leaderstats = player:FindFirstChild("leaderstats")
+    if leaderstats then
+        local aura = leaderstats:FindFirstChild("Aura")
+        if aura then
+            aura.Value = math.max(0, aura.Value - 100)
+            print(string.format("[Hazard] %s eliminated by lava! (-100 Aura, Total: %d)", player.Name, aura.Value))
+        end
+    end
+
+    -- Trigger death
+    humanoid.Health = 0
+
+    task.delay(1.0, function()
+        deathDebounce[player.UserId] = nil
+    end)
+end
+
+local function setupKillParts()
+    if not KillPartsFolder then return end
+
+    for _, part in ipairs(KillPartsFolder:GetDescendants()) do
+        if part:IsA("BasePart") then
+            part.Touched:Connect(onPartTouched)
+        end
+    end
+
+    KillPartsFolder.DescendantAdded:Connect(function(part)
+        if part:IsA("BasePart") then
+            part.Touched:Connect(onPartTouched)
+        end
+    end)
+end
+
+task.spawn(setupKillParts)
+]]></ProtectedString>
+			</Properties>
+		</Item>
+
+		<Item class="Script" referent="RBX_Script_Fading">
+			<Properties>
+				<string name="Name">DisappearingPlatforms</string>
+				<ProtectedString name="Source"><![CDATA[--[[
+    Disappearing / Fading Platform Manager
+    Platforms fade away 0.75 seconds after being stepped on, then regenerate.
+]]
+
+local Workspace = game:GetService("Workspace")
+local TweenService = game:GetService("TweenService")
+
+local FadingFolder = Workspace:WaitForChild("FadingPlatforms", 10)
+
+local function setupFadingPart(part)
+    if not part:IsA("BasePart") then return end
+
+    local isFading = false
+    local originalColor = part.Color
+    local originalTransparency = part.Transparency
+
+    part.Touched:Connect(function(hit)
+        local character = hit.Parent
+        local humanoid = character:FindFirstChildOfClass("Humanoid")
+        if not humanoid or isFading then return end
+
+        isFading = true
+
+        -- Warning phase (0.6 seconds): Rapid flashing yellow/red
+        part.Color = Color3.fromRGB(255, 60, 60)
+        task.wait(0.6)
+
+        -- Fade out: Tween transparency to 1
+        local tweenInfo = TweenInfo.new(0.2, Enum.EasingStyle.Linear)
+        local fadeTween = TweenService:Create(part, tweenInfo, {Transparency = 1})
+        fadeTween:Play()
+        fadeTween.Completed:Wait()
+
+        part.CanCollide = false
+
+        -- Respawn cooldown (3.0 seconds)
+        task.wait(3.0)
+
+        -- Reappear
+        part.Transparency = originalTransparency
+        part.Color = originalColor
+        part.CanCollide = true
+        isFading = false
+    end)
+end
+
+if FadingFolder then
+    for _, part in ipairs(FadingFolder:GetChildren()) do
+        setupFadingPart(part)
+    end
+end
+]]></ProtectedString>
+			</Properties>
+		</Item>
+
+		<Item class="Script" referent="RBX_Script_Speed">
+			<Properties>
+				<string name="Name">SpeedBoostHandler</string>
+				<ProtectedString name="Source"><![CDATA[--[[
+    Speed Boost & Jump Pad Manager
+    Temporarily accelerates player walkspeed and launches leaps.
+]]
+
+local Workspace = game:GetService("Workspace")
+local SpeedPadsFolder = Workspace:WaitForChild("SpeedPads", 10)
+
+local boostCooldown = {}
+
+local function onSpeedPadTouched(hit)
+    local character = hit.Parent
+    local humanoid = character:FindFirstChildOfClass("Humanoid")
+    if not humanoid then return end
+
+    if boostCooldown[character] then return end
+    boostCooldown[character] = true
+
+    -- Apply speed coil boost
+    local oldSpeed = humanoid.WalkSpeed
+    humanoid.WalkSpeed = 36 -- Super sprint
+
+    task.delay(4.5, function()
+        if humanoid and humanoid.Parent then
+            humanoid.WalkSpeed = oldSpeed
+        end
+        boostCooldown[character] = nil
+    end)
+end
+
+if SpeedPadsFolder then
+    for _, pad in ipairs(SpeedPadsFolder:GetChildren()) do
+        if pad:IsA("BasePart") then
+            pad.Touched:Connect(onSpeedPadTouched)
+        end
+    end
+end
+]]></ProtectedString>
+			</Properties>
+		</Item>
+	</Item>
+
+	<!-- StarterPlayer & Client Scripts -->
+	<Item class="StarterPlayer" referent="RBX_StarterPlayer">
+		<Properties>
+			<string name="Name">StarterPlayer</string>
+		</Properties>
+		<Item class="StarterPlayerScripts" referent="RBX_StarterPlayerScripts">
+			<Properties>
+				<string name="Name">StarterPlayerScripts</string>
+			</Properties>
+			<Item class="LocalScript" referent="RBX_Script_AuraHUD">
+				<Properties>
+					<string name="Name">AuraHUD</string>
+					<ProtectedString name="Source"><![CDATA[--[[
+    Aura & Stage Custom ScreenGui HUD
+    Displays real-time Stage counter, dynamic Aura meter, and popup rewards.
+]]
+
+local Players = game:GetService("Players")
+local TweenService = game:GetService("TweenService")
+
+local player = Players.LocalPlayer
+local playerGui = player:WaitForChild("PlayerGui")
+
+-- 1. Create ScreenGui
+local screenGui = Instance.new("ScreenGui")
+screenGui.Name = "BrainrotAuraHUD"
+screenGui.ResetOnSpawn = false
+screenGui.Parent = playerGui
+
+-- 2. Stage Frame (Top Left)
+local stageFrame = Instance.new("Frame")
+stageFrame.Name = "StageFrame"
+stageFrame.Size = UDim2.new(0, 200, 0, 48)
+stageFrame.Position = UDim2.new(0, 25, 0, 25)
+stageFrame.BackgroundColor3 = Color3.fromRGB(20, 20, 30)
+stageFrame.BorderSizePixel = 0
+stageFrame.Parent = screenGui
+
+local stageCorner = Instance.new("UICorner")
+stageCorner.CornerRadius = UDim.new(0, 10)
+stageCorner.Parent = stageFrame
+
+local stageStroke = Instance.new("UIStroke")
+stageStroke.Color = Color3.fromRGB(255, 220, 0)
+stageStroke.Thickness = 2.5
+stageStroke.Parent = stageFrame
+
+local stageLabel = Instance.new("TextLabel")
+stageLabel.Name = "StageLabel"
+stageLabel.Size = UDim2.new(1, 0, 1, 0)
+stageLabel.BackgroundTransparency = 1
+stageLabel.Font = Enum.Font.FredokaOne
+stageLabel.Text = "🕹️ STAGE 1 / 10"
+stageLabel.TextColor3 = Color3.fromRGB(255, 235, 50)
+stageLabel.TextSize = 20
+stageLabel.Parent = stageFrame
+
+-- 3. Aura Frame (Top Right)
+local auraFrame = Instance.new("Frame")
+auraFrame.Name = "AuraFrame"
+auraFrame.Size = UDim2.new(0, 220, 0, 48)
+auraFrame.Position = UDim2.new(1, -245, 0, 25)
+auraFrame.BackgroundColor3 = Color3.fromRGB(15, 25, 20)
+auraFrame.BorderSizePixel = 0
+auraFrame.Parent = screenGui
+
+local auraCorner = Instance.new("UICorner")
+auraCorner.CornerRadius = UDim.new(0, 10)
+auraCorner.Parent = auraFrame
+
+local auraStroke = Instance.new("UIStroke")
+auraStroke.Color = Color3.fromRGB(0, 255, 128)
+auraStroke.Thickness = 2.5
+auraStroke.Parent = auraFrame
+
+local auraLabel = Instance.new("TextLabel")
+auraLabel.Name = "AuraLabel"
+auraLabel.Size = UDim2.new(1, 0, 1, 0)
+auraLabel.BackgroundTransparency = 1
+auraLabel.Font = Enum.Font.FredokaOne
+auraLabel.Text = "⚡ 1,000 AURA"
+auraLabel.TextColor3 = Color3.fromRGB(50, 255, 150)
+auraLabel.TextSize = 20
+auraLabel.Parent = auraFrame
+
+-- 4. Listen for Leaderstats Changes
+local leaderstats = player:WaitForChild("leaderstats", 15)
+if leaderstats then
+    local stageVal = leaderstats:WaitForChild("Stage", 10)
+    local auraVal = leaderstats:WaitForChild("Aura", 10)
+
+    if stageVal then
+        stageVal.Changed:Connect(function(newVal)
+            stageLabel.Text = string.format("🕹️ STAGE %d / 10", newVal)
+        end)
+    end
+
+    if auraVal then
+        auraVal.Changed:Connect(function(newVal)
+            auraLabel.Text = string.format("⚡ %s AURA", string.format("%d", newVal))
+        end)
+    end
+end
+]]></ProtectedString>
+				</Properties>
+			</Item>
+		</Item>
+	</Item>
+
+	<!-- ReplicatedStorage -->
+	<Item class="ReplicatedStorage" referent="RBX_ReplicatedStorage">
+		<Properties>
+			<string name="Name">ReplicatedStorage</string>
+		</Properties>
+	</Item>
+</roblox>
