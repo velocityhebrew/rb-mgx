@@ -68,7 +68,7 @@ def generate_daily_script(theme=None, api_key=None):
     user_prompt = f"Write a complete, brand new 10-scene Roblox Obby script about: {theme}. Make it hilarious, totally original, and ensure Kai and Sigma roast each other constantly."
     
     payload = {
-        "model": "openai",
+        "model": "openai/gpt-5.4-nano",
         "messages": [
             {"role": "system", "content": SYSTEM_PROMPT},
             {"role": "user", "content": user_prompt}
